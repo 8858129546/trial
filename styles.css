@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #CFF5E7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 40%;
+  border-width: 8px;
+
+}
+h1 {
+  margin-top: 0;
+  width: 10%;
+  margin:auto;
+  font-size: 3rem;
+  line-height: 2;
+  font-family: 'Alfa Slab One', cursive;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+.cloudimage1 {
+  position: absolute;
+  right: 400px;
+  top: 70px;
+}
+.cloudimage2 {
+  position: absolute;
+  left: 400px;
+  top: 200px
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computerimage {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+.chillieimage {
+  width: 25%;
+  float: right;
+  margin-left: 40px;
+}
+.comdescription {
+  clear: left;
+}
+.chilliedescription {
+  clear: right;
+}
